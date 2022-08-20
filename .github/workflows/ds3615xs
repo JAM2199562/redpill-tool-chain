@@ -1,4 +1,4 @@
-name: 构建
+name: 构建3615xs
 
 on:
   workflow_dispatch:
