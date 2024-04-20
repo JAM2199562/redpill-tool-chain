@@ -149,7 +149,7 @@
           "sha256": "18aecead760526d652a731121d5b8eae5d6e45087efede0da057413af0b489ed"
         },
         "toolkit_dev": {
-          "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM7.0/ds.bromolow-7.0.dev.txz/download",
+          "url": "https://global.synologydownload.com/download/ToolChain/toolkit/7.0/bromolow/ds.bromolow-7.0.dev.txz",
           "sha256": "a5fbc3019ae8787988c2e64191549bfc665a5a9a4cdddb5ee44c10a48ff96cdd"
         }
       },
@@ -176,7 +176,7 @@
           "sha256": "18aecead760526d652a731121d5b8eae5d6e45087efede0da057413af0b489ed"
         },
         "toolkit_dev": {
-          "url": "https://sourceforge.net/projects/dsgpl/files/toolkit/DSM7.0/ds.bromolow-7.0.dev.txz/download",
+          "url": "https://global.synologydownload.com/download/ToolChain/toolkit/7.0/bromolow/ds.bromolow-7.0.dev.txz",
           "sha256": "a5fbc3019ae8787988c2e64191549bfc665a5a9a4cdddb5ee44c10a48ff96cdd"
         }
       },
