@@ -1,4 +1,4 @@
-ARG DOCKER_BASE_IMAGE=debian:9
+ARG DOCKER_BASE_IMAGE=debian:10
 # extract kernel and toolkit dev
 FROM ${DOCKER_BASE_IMAGE} AS extract
 
